@@ -1,4 +1,4 @@
-# Hock-mod-for-USB-CABLE-CHECKER-2
+# Hock mod for USB CABLE CHECKER2
 
 ## Overview
 これは、 [USB CABLE CHECKER2](https://bit-trade-one.co.jp/adusbcim/) に壁にかけるためのフックを追加する改造パーツです。
@@ -10,7 +10,7 @@
 ## 3D Model
 パーツの3Dモデルファイル(STL)は以下です。
 
-- [*.stl](*.stl)
+- [hook_mod.stl](./hook_mod.stl)
 
 ## How to buy
 3Dプリンタによる出力品は以下で販売しています。
